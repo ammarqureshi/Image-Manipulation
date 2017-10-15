@@ -2,6 +2,6 @@
 image manipulation in ARM
 
 
-Here is a report of the program:
+Here is a detailed explaination about the the programs:
 
-[Assignemnt Doc^N3.pdf](https://github.com/ammarqureshi/Image-Manipulation/files/1385330/Assignemnt.Doc.N3.pdf)
+[ImageManipulation.pdf](https://github.com/ammarqureshi/Image-Manipulation/files/1385330/Assignemnt.Doc.N3.pdf)
